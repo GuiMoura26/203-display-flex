@@ -21,3 +21,12 @@ nav a{
 nav a:hover{
     text-decoration: underline;
 }
+
+header{
+    width: 100%;
+    height: 615px;
+    background-image: url(11perry.jpg);
+    background-size: cover;
+    background-position: center;
+    border-bottom: 5px orange solid;
+}
